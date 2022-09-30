@@ -32,6 +32,6 @@ For more information, please contact Dr Michael Kurzmeier [mkurzmeier@ucc.ie](mk
 
 Further Information:
 
-https://dariahre.hypotheses.org/
+[https://dariahre.hypotheses.org/](https://dariahre.hypotheses.org/)
 
-https://www.dariah.eu/activities/working-groups/community-engagement/
+[https://www.dariah.eu/activities/working-groups/community-engagement/](https://www.dariah.eu/activities/working-groups/community-engagement/)
