@@ -20,16 +20,17 @@ Role requirements:
 
 Application:
 
-To apply for this role, please send the following documents to community.engagement@dariah.eu:
+To apply for this role, please send the following documents to [community.engagement@dariah.eu](community.engagement@dariah.eu) :
 
 - Up-to-date CV
 - Brief cover letter detailing relevant experience for the role
 
 
 
-For further information, please contact Dr Michael Kurzmeier (mkurzmeier@ucc.ie)
+For more information, please contact Dr Michael Kurzmeier [mkurzmeier@ucc.ie](mkurzmeier@ucc.ie)
 
-Also see 
+
+Further Information:
 
 https://dariahre.hypotheses.org/
 
