@@ -10,7 +10,7 @@ The role responsibilities include:
 
 This role does *not* include cold calling, sales, or annying people in any way.
 
-The work hours are flexible, with the exception of the workshop. The total workload is approximately 50h.
+The work hours are flexible, with the exception of the workshop. The total workload is approximately 50h between October and March.
 
 Role requirements:
 
@@ -28,3 +28,9 @@ To apply for this role, please send the following documents to community.engagem
 
 
 For further information, please contact Dr Michael Kurzmeier (mkurzmeier@ucc.ie)
+
+Also see 
+
+https://dariahre.hypotheses.org/
+
+https://www.dariah.eu/activities/working-groups/community-engagement/
