@@ -8,7 +8,7 @@ The role responsibilities include:
 - communication through email and DARIAH communication channels
 - help prepare and run the workshop
 
-This role does *not* include cold calling, sales, or annying people in any way.
+This role does *not* include cold calling, sales, or annoying people in any way.
 
 The work hours are flexible, with the exception of the workshop. The total workload is approximately 50h between October and March.
 
