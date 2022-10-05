@@ -20,7 +20,7 @@ Role requirements:
 
 Application:
 
-To apply for this role, please send the following documents to [community.engagement@dariah.eu](community.engagement@dariah.eu) :
+To apply for this role, please send the following documents to [mkurzmeier@ucc.ie](mkurzmeier@ucc.ie) :
 
 - Up-to-date CV
 - Brief cover letter detailing relevant experience for the role
