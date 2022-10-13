@@ -20,15 +20,9 @@ Role requirements:
 
 Application:
 
-<!-- To apply for this role, please send the following documents to [mkurzmeier@ucc.ie](mkurzmeier@ucc.ie) : --> Reviewing Applications, will get back to you asap
+<!-- To apply for this role, please send the following documents to [mkurzmeier@ucc.ie](mkurzmeier@ucc.ie) : --> 
 
-- Up-to-date CV
-- Brief cover letter detailing relevant experience for the role
-
-
-
-For more information, please contact Dr Michael Kurzmeier [mkurzmeier@ucc.ie](mkurzmeier@ucc.ie)
-
+## Thank you for applying, the role has been filled.
 
 Further Information:
 
